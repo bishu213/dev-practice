@@ -1,3 +1,11 @@
+'''
+* * * * * 
+  * * * *
+    * * *
+      * *
+        *
+'''
+
 for k in range(5):
     t=0
     for l in range(5):
@@ -8,4 +16,3 @@ for k in range(5):
         t+=1
     print()
     
-
